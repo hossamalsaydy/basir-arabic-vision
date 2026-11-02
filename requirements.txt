@@ -1,0 +1,6 @@
+kivy>=2.3.0
+camera4kivy==0.0.4
+opencv-python-headless>=4.9.0
+numpy>=1.26.0
+arabic-reshaper>=3.0.0
+python-bidi>=0.4.2
